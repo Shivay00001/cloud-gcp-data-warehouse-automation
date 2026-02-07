@@ -1,6 +1,3 @@
-fastapi
-uvicorn
-numpy
-pandas
-scikit-learn
-torch
+google-cloud-bigquery>=3.13.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
