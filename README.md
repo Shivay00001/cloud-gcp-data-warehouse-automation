@@ -1,5 +1,7 @@
 # Cloud Gcp Data Warehouse Automation
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Automate GCP data warehouse pipelines with Python, Docker, and CI/CD
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
